@@ -7,4 +7,4 @@ import requests
 def main_home(request):
     return render(request, 'main_page/main_page.html')
 
-#diauf
+    
